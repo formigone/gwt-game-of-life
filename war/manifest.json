@@ -1,11 +1,11 @@
 {
   "name": "ASCII Game of Life",
   "description": "No, this is not the board game. This game is John Conway's Game of Life - ASCII version.",
-  "version": "0.5.0.3",
+  "version": "0.5.0.4",
   "manifest_version": 2,
   "app": {
    "urls": [
-      "*://ascii-game-of-life.appspot.com/"
+      "http://ascii-game-of-life.appspot.com/"
     ],
     "launch": {
       "web_url": "http://ascii-game-of-life.appspot.com/ascii-game-of-life.html"
